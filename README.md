@@ -1,2 +1,2 @@
-# OS
-SteamDeckX OS customizations
+# SteamDeckX OS
+SteamDeckX OS Windows customizations
